@@ -1,0 +1,168 @@
+THE TABULATED MAGELLAN VENUS VOLCANIC FEATURE CATALOG
+
+abbreviated extract of table explanation comments from:
+Volcanic and Magmatic Features on Venus: A Global Survey
+
+Larry S. Crumpler, Jayne C. Aubele, and James W. Head III 
+Geological Society of America Special Paper 
+(in preparation)
+Data organization
+
+The Magellan Volcano Catalog in the following pages lists the locations
+of individual volcanic and magmatic features to the nearest 0.5 degrees,
+together with dimensions, brief descriptions or comments, existing
+names, and an "MVC (Magellan Volcanic feature Catalog) Number"
+consisting of the latitude, longitude, and short abbreviation for the
+feature type. These are arranged by feature type in alphabetical
+ordering, starting with north latitudes and prime meridian for each
+feature.
+
+Explanation of Conventions Used
+
+Table columns
+
+Feature Terminology. The feature type designations used here are
+informal. Some terms imply a geologic origin and other terms are
+non-genetic. The level of geological detail available from Magellan
+image data are such that many of the centers may be assigned with
+reasonable certainty to a broad class of relatively well-known geologic
+phenomena, such as volcanoes or calderas, and the need for generally
+non-genetic terminology is diminished. Further more detailed division of
+feature types is generally more non-genetic. For these and other reasons
+discussed below, informal terms used early in the Magellan mission, such
+as "anemone", have been replaced in our catalog with more descriptive
+terms such as "radially-patterned intermediate volcano".
+In general several non-genetic terms for many large scale features
+originated during the analysis of Venera 15/16 image data because the
+resolution was such that the geologic origin of many large scale
+structures, such as coronae or arachnoids, was indeterminate. Similar
+informal terms were used early in the Magellan mission for many types of
+newly-identified morphological features. An attempt was made with some
+preliminary terms used by the Magellan team, to use Latin derivative
+terms, as was done successfully with tesserae earlier. Informal usage of
+Latin in addition to informal and colloquial terms in general impeded
+this approach and resulted in errors. For example, the term "nova" arose
+from the astronomical term for an exploding star, even though its
+original Latin sense ("new") has nothing to do with a stellate pattern.
+These and other problems are of the type that are sorted out with usage,
+but should be noted and avoided. Currently the term "corona" seems to be
+accepted, "arachnoid" is not favored but may have been in use long
+enough to continue, but the terms "nova" and "tick" are generally
+considered inappropriate and in need of replacement. Simple terms that
+readily characterize a feature are most convenient, and as a rule
+non-whimsical terms are more appropriate.
+
+Locations/Catalog Accuracy. The data in this catalog were compiled by
+two people jointly verifying each identification, classification, and
+numerical entry and acting as a check of the other's observations. A
+second verification of locations was performed subsequent to completion
+of the catalog by three people. Every effort was thus made during
+compilation and editing to check and re-check the accuracy of
+identifications, locations, dimensions, and tabulation. In addition to
+providing a continual check of individual accuracy, the tandem survey
+also controlled excessive "drifts" in identification and interpretation
+criteria that often occur in efforts of this type requiring observations
+over an extended period by a single individual. However, as with any
+carefully assembled, large geophysical data set of this size and
+complexity, a certain low percentage (generally ²5%) of transcription
+and related "mechanical" errors occurs can occur [for example, see
+discussion of Pacific intraplate seismicity map in Lay, 1991, EOS, 72,
+page 468 or Wysession et al., 1991]. Users might be alert for the few
+obvious errors. Commonly identified and corrected errors during the
+review process included latitudinal errors resulting from inversion of
+north or south (e.g., 15 degrees instead of -15 degrees), corresponding
+mis-interpolation from latitudinal scale label points (e.g., -20 degrees
+mis-read as 20 degrees and a feature 2 degrees north of that identified
+as being at 22 degrees instead of -18 degrees), multiplicative
+longitudinal shifts (e.g., 290 degrees instead of 190 degrees, or 180
+degrees instead of 190 degrees), incorrect MVC numbers, and
+typographical errors in feature descriptions. Instances of these types
+of errors are few, but these examples are offered as keys to recovering
+the data from the most likely occurrences of errors of this type.
+
+Another advantage that has resulted from limiting the initial survey
+analysis to two individuals has been an increased ability to reach
+agreements about definitions, identifications, and related problems
+during the actual survey. Although, the disadvantage of this approach
+might be that a wide range of individual interpretations and
+perspectives are not presented within the catalog, the advantage is that
+the Magellan Volcanic Feature Catalog is assembled with extreme
+attention to consistency. This consistency together with the descriptive
+comments for each feature should enable alternative definitions or
+divisions to be readily accommodated if desired.
+
+Dimensions. All dimensions are diameters, unless otherwise noted, and
+are approximate. Lava channel dimensions represent the length of
+channels. The diameters of large volcanoes are measured to the distal
+edges of the radial lava flows of median length. Diameters of coronae
+and arachnoids represent the mean diameter of the most prominent
+concentric ring. The diameter of radial fracture centers or stellate
+patterns is the diameter defined by using the median fracture length;
+fractures which are continuations of longer rift or fracture belt trends
+are not considered in arriving at the value for the median length.
+
+MVC#. Few features on Venus are named as yet. Consequently, for purposes
+of brief identification, we have assigned a Magellan Volcano Catalog
+number ("MVC#") to each feature. The MVC # is simply an abbreviated
+description of the latitude, longitude, and volcanic feature type for
+each entry.
+
+C1-MIDR.#s Preliminary list of C1-MIDRs in which the feature appears.
+F-MIDR #s Preliminary list of F-MIDRs in which the feature appears.
+Entered Comments. All comments identify salient characteristics relevant
+to the location of individual features with respect to adjacent
+features, apparent radar characteristics ("bright" or "dark"), and any
+other information deemed pertinent to establishing unique or unusual
+properties of the feature(s) listed. Feature Names. Names assigned to
+individual features included in the catalog are those approved by the
+International Astronomical Union as of the time of this writing. In
+general, the only systematic attempt to assign names has been for
+craters and coronae. With the exception of two or three well-known and
+frequently used names such as Eve Corona and Heng-O Corona, preliminary
+names or suggested names which are not on the official IAU Venus
+nomenclature list are included in parentheses. In some cases the
+co-ordinates listed in the IAU list for a feature may differ from those
+judged from Magellan data as representing the center of a particular
+volcanic feature. IAU names for which no corresponding volcanic feature
+is identified have not been included. Where the co-ordinates of our list
+and the IAU list differ significantly, the assumed corresponding feature
+name is listed with a query ("?") symbol. Many existing IAU-named
+features have no apparent Magellan volcano counterpart.
+
+Identification of feature types is here based largely on volcanic
+criteria and infrequently corresponds to a single IAU physiographic term
+(e.g., "patera" often includes arachnoids, calderas, and large
+volcanoes). We note also that we have found few features on Venus which
+correspond to the official definition of patera as originally described;
+the usage of this term as a type of elevated relief feature, in
+particular, a low volcanic shield or edifice as exemplified on Mars and
+previously applied on Venus, does not correspond to the original IAU
+definition which identifies it as a flat-floor, irregular-margined
+depression. Other classifications. Due to variations in assumed defining
+characteristics and differences in interpretation, many individual
+features may be assigned to different feature types by different
+authors. This column list other classifications that have been assigned
+to the same feature by other authors.
+
+Abbreviations: The following abbreviations are used in the catalog
+headings. Words in quotation marks note the equivalent informal
+terminology used in early science reports.
+
+AR = Arachnoid                        IV/SSD = Steep-Sided Dome
+("pancake")
+CO = Corona                           LC = Lava Channel
+FF = Festoon Flow                     LF = Lava Flow, Lava Field
+IV = Intermediate Volcano             LV = Large Volcano
+   (unspecified)
+IV/FD= Fluted Dome (scalloped dome;   SFC = Stellate Fracture Center
+   "tick")                               ("nova")
+IV/RP = Radially-Pattern volcano      SF = small Shield volcano Field
+   ("anemone")
+Supplementary table notes: A query symbol ("?") denotes some difficulty
+or uncertainty in classification due to characteristics of a particular
+feature which are unusual or gradational to another feature type. A
+number following a feature designation [for example IV/SD(4)], means
+that there are multiple features of this type occurring close together
+(within 0.5 degrees lat/long ).
+
+cat venus_cat.csv | grep -E '^SF,' | awk '{FS=",";OFS=","}{print $1,$2,$3,$4}'
