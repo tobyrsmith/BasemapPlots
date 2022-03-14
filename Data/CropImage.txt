@@ -1,3 +1,0 @@
-convert -crop 3000x1330+100+20 VenusShieldVol.jpg test.jpg
-
-convert -crop 3000x1330+115+20 EarthCraters_RAW.png EarthCraters.png
